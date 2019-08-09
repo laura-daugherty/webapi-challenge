@@ -1,0 +1,24 @@
+{
+  "name": "webapi-challenge",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "api": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laura-daugherty/webapi-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laura-daugherty/webapi-challenge/issues"
+  },
+  "homepage": "https://github.com/laura-daugherty/webapi-challenge#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
